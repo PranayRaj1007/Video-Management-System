@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.23.2
+torch==2.8.0
+opencv-python==4.8.1.78
+pandas==1.5.3
+requests==2.31.0
+numpy==1.23.5
